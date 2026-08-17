@@ -1,16 +1,53 @@
-# React + Vite
+# 📝 MERN To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly full-stack To-Do application built while learning the MERN Stack.
 
-Currently, two official plugins are available:
+## 🌱 About This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is being developed as part of my learning journey in Full Stack Web Development.
 
-## React Compiler
+The goal is to understand how a frontend application communicates with a backend server and database.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies
 
-## Expanding the ESLint configuration
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- HTML
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Planned Features
+
+- ➕ Add tasks
+- ✏️ Edit tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📋 View all tasks
+- 💾 Store tasks in MongoDB
+
+## 📚 What I'm Learning
+
+Through this project, I'm learning:
+
+- React components
+- State management
+- REST APIs
+- Node.js & Express
+- MongoDB database operations
+- CRUD operations
+- Connecting frontend and backend
+- Git & GitHub
+
+## 🚧 Project Status
+
+**In Development 🚀**
+
+This project is being built step-by-step as part of my MERN Stack learning journey.
+
+## 👩‍💻 Developer
+
+**Helly Vyas**
+
+Aspiring Full Stack Developer | M.Tech Computer Engineering | Fresher
